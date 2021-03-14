@@ -1,5 +1,10 @@
 # .unitypackage Ransomware
 
+
+<p align="center">
+  <img width="300" height="300" src="https://cdn.discordapp.com/attachments/804862672675799080/820642819830972467/tumblr_inline_pexz54of541un6iqp_540.gif">
+</p>
+
 This is a proof of concept to encrypt files using a unitypackage.
 
 **This script should not be used to encrypt other systems but should be used for study purposes.**
