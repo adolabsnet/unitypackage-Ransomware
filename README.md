@@ -20,5 +20,5 @@ Check out my [Discord Server](https://discord.gg/peC5MntJw2)
 
 **This script uses a password for each file, so it is impossible to decrypt them**
 
-For any support send me a e-mail to: `admin@astronyia.xyx`
+For any support send me a e-mail: `admin@astronyia.xyx`
 
