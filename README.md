@@ -22,3 +22,14 @@ Check out my [Discord Server](https://discord.gg/peC5MntJw2)
 
 For any support send me a e-mail: `admin@astronyia.xyx`
 
+### Todo/next updates
+- [x] Simple Ransomware
+- [x] Support Random String as Password
+- [ ] Random Salt Generator
+- [ ] Random File Extensions
+- [ ] Download other Ransomware to Encrypt after Unity Close
+- [ ] Remove Antivirus and Replace with Unity
+- [ ] Test package
+- [ ] Admin bypass
+- [ ] Store Filepassword to DB over a API
+- [ ] Download other Maleware in background
